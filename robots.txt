@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kr-daegu-buk.github.io/sitemap.xml
